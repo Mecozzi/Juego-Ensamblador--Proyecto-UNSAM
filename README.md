@@ -1,7 +1,7 @@
 ## 🧱 Rompe Ladrillos - Proyecto de juego  en Ensamblador 8086
 #### Proyecto de la materia "Sistema de Procesamiento de Datos" - UNSAM-  1er Cuatrimestre 2023
 
-* Este proyecto consiste en la implementación del clásico juego "Rompe Ladrillos"  programado en lenguaje ensamblador 8086. Fue desarrollado para ejecutarse en un entorno DOS.
+* Este proyecto fue realizado con un compañero y consiste en la implementación del clásico juego "Rompe Ladrillos"  programado en lenguaje ensamblador 8086. Fue desarrollado para ejecutarse en un entorno DOS.
 ---
 #### Temas Aplicados
 - Gráficos en modo 13h
